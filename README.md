@@ -4,7 +4,7 @@ Hi 👋 ! My name is Nico Foti
 *   🌍  I'm based in Boston, Massachusetts
 *   ✉️  You can contact me at [nicolefoti@gmail.com](mailto:nicolefoti@gmail.com)
 *   🚀  I'm currently working on [HerpHero](http://github.com/maneki-nico/herp-hero)
-*   🧠  I'm learning advanced CSS code design
+*   🧠  I'm learning Node.js
 *   🤝  I'm open to collaborating on RoR-based web applications
 *   ⚡  Doting pet parent of 3 and lover of various art mediums
 ### Skills 
