@@ -3,7 +3,6 @@ Hi 👋 ! My name is Nico Foti
 
 *   🌍  I'm based in Boston, Massachusetts
 *   ✉️  You can contact me at [nicolefoti@gmail.com](mailto:nicolefoti@gmail.com)
-<!-- *   🚀  I'm currently working on [RememberMe](https://github.com/katief906/rememberme), a to-do list app for desktop and mobile  -->
 *   🧠  I'm learning TypeScript
 *   🤝  I'm open to collaborating on RoR-based web applications
 *   ⚡  Doting pet parent of 3 and lover of various art mediums
@@ -19,6 +18,7 @@ Hi 👋 ! My name is Nico Foti
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
+<!-- *   🚀  I'm currently working on [RememberMe](https://github.com/katief906/rememberme), a to-do list app for desktop and mobile  -->
                     
 ### Socials
                   
