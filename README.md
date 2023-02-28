@@ -3,8 +3,8 @@ Hi 👋 ! My name is Nico Foti
 
 *   🌍  I'm based in Boston, Massachusetts
 *   ✉️  You can contact me at [nicolefoti@gmail.com](mailto:nicolefoti@gmail.com)
-*   🚀  I'm currently working on [RememberMe](https://github.com/katief906/rememberme), a to-do list app for desktop and mobile 
-*   🧠  I'm learning Node.js/Express and Oath
+<!-- *   🚀  I'm currently working on [RememberMe](https://github.com/katief906/rememberme), a to-do list app for desktop and mobile  -->
+*   🧠  I'm learning TypeScript
 *   🤝  I'm open to collaborating on RoR-based web applications
 *   ⚡  Doting pet parent of 3 and lover of various art mediums
 ### Skills 
